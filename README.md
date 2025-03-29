@@ -43,8 +43,8 @@ An intelligent chatbot that helps users learn new languages through interactive 
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd language-learning-chatbot
+   git clone https://github.com/nawabkh2040/Lang-Tutor.git
+   cd Lang-Tutor
    ```
 
 2. **Create Virtual Environment**
@@ -101,4 +101,3 @@ An intelligent chatbot that helps users learn new languages through interactive 
    - Adjust conversation scenarios
    - Select difficulty levels
 
-## Project Structure 
